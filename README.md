@@ -11,7 +11,7 @@ A responsive portfolio website built using HTML and CSS.
 - Clean UI
 
 ## Live Demo
-https://parthbhavsar26.github.io/html-semantic-portfolio/
+"https://parthbhavsar26.github.io/parthbhavsar-portfolio/"
 
 ## Technologies Used
 - HTML5
